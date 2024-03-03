@@ -1,0 +1,27 @@
+{
+  "name": "hackrank_ts",
+  "version": "1.0.0",
+  "description": "hackerrank typescript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thind9xdev/hackerrank_ts.git"
+  },
+  "keywords": [
+    "hackerrank",
+    "typescript"
+  ],
+  "author": "thind9xdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thind9xdev/hackerrank_ts/issues"
+  },
+  "homepage": "https://github.com/thind9xdev/hackerrank_ts#readme",
+  "dependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
+  }
+}
