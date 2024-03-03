@@ -56,5 +56,5 @@ function main() {
 
     const result: number = diagonalDifference(arr);
 
-   
+ 
 }
